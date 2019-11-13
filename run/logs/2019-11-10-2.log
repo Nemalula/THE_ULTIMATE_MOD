@@ -1,0 +1,385 @@
+[00:04:22] [main/INFO] [GradleStart]: Extra: []
+[00:04:22] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/Ariel/.gradle/caches/minecraft/assets, --assetIndex, 1.12, --accessToken{REDACTED}, --version, 1.12.2, --tweakClass, net.minecraftforge.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[00:04:22] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[00:04:22] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[00:04:22] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[00:04:22] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[00:04:22] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2847 for Minecraft 1.12.2 loading
+[00:04:22] [main/INFO] [FML]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_221, running on Windows 10:amd64:10.0, installed at C:\Program Files\Java\jdk1.8.0_221\jre
+[00:04:22] [main/ERROR] [FML]: Apache Maven library folder was not in the format expected. Using default libraries directory.
+[00:04:22] [main/ERROR] [FML]: Full: C:\Users\Ariel\.gradle\caches\modules-2\files-2.1\org.apache.maven\maven-artifact\3.5.3\7dc72b6d6d8a6dced3d294ed54c2cc3515ade9f4\maven-artifact-3.5.3.jar
+[00:04:22] [main/ERROR] [FML]: Trimmed: c:/users/ariel/.gradle/caches/modules-2/files-2.1/org.apache.maven/maven-artifact/3.5.3/
+[00:04:23] [main/INFO] [FML]: Managed to load a deobfuscated Minecraft name- we are in a deobfuscated environment. Skipping runtime deobfuscation
+[00:04:23] [main/INFO] [FML]: Detected deobfuscated environment, loading log configs for colored console logs.
+[00:04:23] [main/INFO] [FML]: Ignoring missing certificate for coremod FMLCorePlugin (net.minecraftforge.fml.relauncher.FMLCorePlugin), we are in deobf and it's a forge core plugin
+[00:04:23] [main/INFO] [FML]: Ignoring missing certificate for coremod FMLForgePlugin (net.minecraftforge.classloading.FMLForgePlugin), we are in deobf and it's a forge core plugin
+[00:04:23] [main/INFO] [FML]: Searching C:\Users\Ariel\Music\minecraft mod\run\.\mods for mods
+[00:04:23] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.gradle.tweakers.CoremodTweaker
+[00:04:23] [main/INFO] [GradleStart]: Injecting location in coremod net.minecraftforge.fml.relauncher.FMLCorePlugin
+[00:04:23] [main/INFO] [GradleStart]: Injecting location in coremod net.minecraftforge.classloading.FMLForgePlugin
+[00:04:23] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[00:04:23] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[00:04:23] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.AccessTransformerTweaker
+[00:04:23] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[00:04:23] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[00:04:23] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[00:04:25] [main/ERROR] [FML]: FML appears to be missing any signature data. This is not a good thing
+[00:04:25] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[00:04:25] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[00:04:25] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.gradle.tweakers.AccessTransformerTweaker
+[00:04:25] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[00:04:25] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[00:04:25] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[00:04:26] [Client thread/INFO] [net.minecraft.client.Minecraft]: Setting user: Player310
+[00:04:27] [Client thread/WARN] [net.minecraft.client.settings.GameSettings]: Skipping bad option: lastServer:
+[00:04:28] [Client thread/INFO] [net.minecraft.client.Minecraft]: LWJGL Version: 2.9.4
+[00:04:29] [Client thread/INFO] [FML]: -- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_221, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 99659936 bytes (95 MB) / 400031744 bytes (381 MB) up to 3804758016 bytes (3628 MB)
+	JVM Flags: 0 total; 
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: 
+	Loaded coremods (and transformers): 
+	GL info: ' Vendor: 'NVIDIA Corporation' Version: '4.6.0 NVIDIA 436.15' Renderer: 'GeForce GTX 1070/PCIe/SSE2'
+[00:04:29] [Client thread/INFO] [FML]: MinecraftForge v14.23.5.2847 Initialized
+[00:04:29] [Client thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[00:04:29] [Client thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[00:04:29] [Client thread/INFO] [FML]: Replaced 1227 ore ingredients
+[00:04:30] [Client thread/INFO] [FML]: Searching C:\Users\Ariel\Music\minecraft mod\run\.\mods for mods
+[00:04:30] [Client thread/INFO] [FML]: Forge Mod Loader has identified 5 mods to load
+[00:04:30] [Client thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, nemalula] at CLIENT
+[00:04:30] [Client thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, nemalula] at SERVER
+[00:04:31] [Client thread/INFO] [net.minecraft.client.resources.SimpleReloadableResourceManager]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Ants Mod
+[00:04:31] [Client thread/INFO] [FML]: Processing ObjectHolder annotations
+[00:04:31] [Client thread/INFO] [FML]: Found 1168 ObjectHolder annotations
+[00:04:31] [Client thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[00:04:31] [Client thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[00:04:31] [Client thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[00:04:31] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[00:04:31] [Client thread/INFO] [STDOUT]: [org.nemalula.AntsMod:preInit:27]: Ants Mod is loading!
+[00:04:31] [Client thread/INFO] [FML]: Applying holder lookups
+[00:04:31] [Client thread/INFO] [FML]: Holder lookups applied
+[00:04:31] [Client thread/INFO] [FML]: Applying holder lookups
+[00:04:31] [Client thread/INFO] [FML]: Holder lookups applied
+[00:04:31] [Client thread/INFO] [FML]: Applying holder lookups
+[00:04:31] [Client thread/INFO] [FML]: Holder lookups applied
+[00:04:31] [Client thread/INFO] [FML]: Applying holder lookups
+[00:04:31] [Client thread/INFO] [FML]: Holder lookups applied
+[00:04:31] [Client thread/INFO] [FML]: Injecting itemstacks
+[00:04:31] [Client thread/INFO] [FML]: Itemstack injection complete
+[00:04:31] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
+[00:04:31] [Thread-3/INFO] [FML]: Using sync timing. 200 frames of Display.update took 517248800 nanos
+[00:04:33] [Sound Library Loader/INFO] [net.minecraft.client.audio.SoundManager]: Starting up SoundSystem...
+[00:04:34] [Thread-5/INFO] [net.minecraft.client.audio.SoundManager]: Initializing LWJGL OpenAL
+[00:04:34] [Thread-5/INFO] [net.minecraft.client.audio.SoundManager]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[00:04:34] [Thread-5/INFO] [net.minecraft.client.audio.SoundManager]: OpenAL initialized.
+[00:04:34] [Sound Library Loader/INFO] [net.minecraft.client.audio.SoundManager]: Sound engine started
+[00:04:37] [Client thread/INFO] [FML]: Max texture size: 16384
+[00:04:38] [Client thread/INFO] [net.minecraft.client.renderer.texture.TextureMap]: Created: 512x512 textures-atlas
+[00:04:38] [Client thread/ERROR] [FML]: Exception loading model for variant nemalula:ingot_wood#inventory for item "nemalula:ingot_wood", normal location exception: 
+net.minecraftforge.client.model.ModelLoaderRegistry$LoaderException: Exception loading model nemalula:item/ingot_wood with loader VanillaLoader.INSTANCE, skipping
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:161) ~[ModelLoaderRegistry.class:?]
+	at net.minecraftforge.client.model.ModelLoader.loadItemModels(ModelLoader.java:302) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.loadVariantItemModels(ModelBakery.java:175) ~[ModelBakery.class:?]
+	at net.minecraftforge.client.model.ModelLoader.setupModelRegistry(ModelLoader.java:151) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelManager.onResourceManagerReload(ModelManager.java:28) [ModelManager.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.registerReloadListener(SimpleReloadableResourceManager.java:121) [SimpleReloadableResourceManager.class:?]
+	at net.minecraft.client.Minecraft.init(Minecraft.java:560) [Minecraft.class:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [Minecraft.class:?]
+	at net.minecraft.client.main.Main.main(Main.java:118) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_221]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_221]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_221]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_221]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_221]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_221]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_221]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_221]
+	at net.minecraftforge.gradle.GradleStartCommon.launch(GradleStartCommon.java:97) [start/:?]
+	at GradleStart.main(GradleStart.java:25) [start/:?]
+Caused by: java.io.FileNotFoundException: nemalula:models/item/ingot_wood.json
+	at net.minecraft.client.resources.FallbackResourceManager.getResource(FallbackResourceManager.java:69) ~[FallbackResourceManager.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.getResource(SimpleReloadableResourceManager.java:65) ~[SimpleReloadableResourceManager.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.loadModel(ModelBakery.java:334) ~[ModelBakery.class:?]
+	at net.minecraftforge.client.model.ModelLoader.access$1400(ModelLoader.java:115) ~[ModelLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoader$VanillaLoader.loadModel(ModelLoader.java:861) ~[ModelLoader$VanillaLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:157) ~[ModelLoaderRegistry.class:?]
+	... 20 more
+[00:04:38] [Client thread/ERROR] [FML]: Exception loading model for variant nemalula:ingot_wood#inventory for item "nemalula:ingot_wood", blockstate location exception: 
+net.minecraftforge.client.model.ModelLoaderRegistry$LoaderException: Exception loading model nemalula:ingot_wood#inventory with loader VariantLoader.INSTANCE, skipping
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:161) ~[ModelLoaderRegistry.class:?]
+	at net.minecraftforge.client.model.ModelLoader.loadItemModels(ModelLoader.java:296) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.loadVariantItemModels(ModelBakery.java:175) ~[ModelBakery.class:?]
+	at net.minecraftforge.client.model.ModelLoader.setupModelRegistry(ModelLoader.java:151) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelManager.onResourceManagerReload(ModelManager.java:28) [ModelManager.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.registerReloadListener(SimpleReloadableResourceManager.java:121) [SimpleReloadableResourceManager.class:?]
+	at net.minecraft.client.Minecraft.init(Minecraft.java:560) [Minecraft.class:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [Minecraft.class:?]
+	at net.minecraft.client.main.Main.main(Main.java:118) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_221]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_221]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_221]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_221]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_221]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_221]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_221]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_221]
+	at net.minecraftforge.gradle.GradleStartCommon.launch(GradleStartCommon.java:97) [start/:?]
+	at GradleStart.main(GradleStart.java:25) [start/:?]
+Caused by: net.minecraft.client.renderer.block.model.ModelBlockDefinition$MissingVariantException
+	at net.minecraft.client.renderer.block.model.ModelBlockDefinition.getVariant(ModelBlockDefinition.java:83) ~[ModelBlockDefinition.class:?]
+	at net.minecraftforge.client.model.ModelLoader$VariantLoader.loadModel(ModelLoader.java:1175) ~[ModelLoader$VariantLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:157) ~[ModelLoaderRegistry.class:?]
+	... 20 more
+[00:04:38] [Client thread/ERROR] [FML]: Exception loading model for variant nemalula:ingot_cool#inventory for item "nemalula:ingot_cool", normal location exception: 
+net.minecraftforge.client.model.ModelLoaderRegistry$LoaderException: Exception loading model nemalula:item/ingot_cool with loader VanillaLoader.INSTANCE, skipping
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:161) ~[ModelLoaderRegistry.class:?]
+	at net.minecraftforge.client.model.ModelLoader.loadItemModels(ModelLoader.java:302) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.loadVariantItemModels(ModelBakery.java:175) ~[ModelBakery.class:?]
+	at net.minecraftforge.client.model.ModelLoader.setupModelRegistry(ModelLoader.java:151) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelManager.onResourceManagerReload(ModelManager.java:28) [ModelManager.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.registerReloadListener(SimpleReloadableResourceManager.java:121) [SimpleReloadableResourceManager.class:?]
+	at net.minecraft.client.Minecraft.init(Minecraft.java:560) [Minecraft.class:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [Minecraft.class:?]
+	at net.minecraft.client.main.Main.main(Main.java:118) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_221]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_221]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_221]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_221]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_221]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_221]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_221]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_221]
+	at net.minecraftforge.gradle.GradleStartCommon.launch(GradleStartCommon.java:97) [start/:?]
+	at GradleStart.main(GradleStart.java:25) [start/:?]
+Caused by: java.io.FileNotFoundException: nemalula:models/item/ingot_cool.json
+	at net.minecraft.client.resources.FallbackResourceManager.getResource(FallbackResourceManager.java:69) ~[FallbackResourceManager.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.getResource(SimpleReloadableResourceManager.java:65) ~[SimpleReloadableResourceManager.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.loadModel(ModelBakery.java:334) ~[ModelBakery.class:?]
+	at net.minecraftforge.client.model.ModelLoader.access$1400(ModelLoader.java:115) ~[ModelLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoader$VanillaLoader.loadModel(ModelLoader.java:861) ~[ModelLoader$VanillaLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:157) ~[ModelLoaderRegistry.class:?]
+	... 20 more
+[00:04:38] [Client thread/ERROR] [FML]: Exception loading model for variant nemalula:ingot_cool#inventory for item "nemalula:ingot_cool", blockstate location exception: 
+net.minecraftforge.client.model.ModelLoaderRegistry$LoaderException: Exception loading model nemalula:ingot_cool#inventory with loader VariantLoader.INSTANCE, skipping
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:161) ~[ModelLoaderRegistry.class:?]
+	at net.minecraftforge.client.model.ModelLoader.loadItemModels(ModelLoader.java:296) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.loadVariantItemModels(ModelBakery.java:175) ~[ModelBakery.class:?]
+	at net.minecraftforge.client.model.ModelLoader.setupModelRegistry(ModelLoader.java:151) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelManager.onResourceManagerReload(ModelManager.java:28) [ModelManager.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.registerReloadListener(SimpleReloadableResourceManager.java:121) [SimpleReloadableResourceManager.class:?]
+	at net.minecraft.client.Minecraft.init(Minecraft.java:560) [Minecraft.class:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [Minecraft.class:?]
+	at net.minecraft.client.main.Main.main(Main.java:118) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_221]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_221]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_221]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_221]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_221]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_221]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_221]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_221]
+	at net.minecraftforge.gradle.GradleStartCommon.launch(GradleStartCommon.java:97) [start/:?]
+	at GradleStart.main(GradleStart.java:25) [start/:?]
+Caused by: net.minecraft.client.renderer.block.model.ModelBlockDefinition$MissingVariantException
+	at net.minecraft.client.renderer.block.model.ModelBlockDefinition.getVariant(ModelBlockDefinition.java:83) ~[ModelBlockDefinition.class:?]
+	at net.minecraftforge.client.model.ModelLoader$VariantLoader.loadModel(ModelLoader.java:1175) ~[ModelLoader$VariantLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:157) ~[ModelLoaderRegistry.class:?]
+	... 20 more
+[00:04:38] [Client thread/ERROR] [FML]: Exception loading model for variant nemalula:ingot_ingot#inventory for item "nemalula:ingot_ingot", normal location exception: 
+net.minecraftforge.client.model.ModelLoaderRegistry$LoaderException: Exception loading model nemalula:item/ingot_ingot with loader VanillaLoader.INSTANCE, skipping
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:161) ~[ModelLoaderRegistry.class:?]
+	at net.minecraftforge.client.model.ModelLoader.loadItemModels(ModelLoader.java:302) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.loadVariantItemModels(ModelBakery.java:175) ~[ModelBakery.class:?]
+	at net.minecraftforge.client.model.ModelLoader.setupModelRegistry(ModelLoader.java:151) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelManager.onResourceManagerReload(ModelManager.java:28) [ModelManager.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.registerReloadListener(SimpleReloadableResourceManager.java:121) [SimpleReloadableResourceManager.class:?]
+	at net.minecraft.client.Minecraft.init(Minecraft.java:560) [Minecraft.class:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [Minecraft.class:?]
+	at net.minecraft.client.main.Main.main(Main.java:118) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_221]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_221]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_221]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_221]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_221]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_221]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_221]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_221]
+	at net.minecraftforge.gradle.GradleStartCommon.launch(GradleStartCommon.java:97) [start/:?]
+	at GradleStart.main(GradleStart.java:25) [start/:?]
+Caused by: java.io.FileNotFoundException: nemalula:models/item/ingot_ingot.json
+	at net.minecraft.client.resources.FallbackResourceManager.getResource(FallbackResourceManager.java:69) ~[FallbackResourceManager.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.getResource(SimpleReloadableResourceManager.java:65) ~[SimpleReloadableResourceManager.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.loadModel(ModelBakery.java:334) ~[ModelBakery.class:?]
+	at net.minecraftforge.client.model.ModelLoader.access$1400(ModelLoader.java:115) ~[ModelLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoader$VanillaLoader.loadModel(ModelLoader.java:861) ~[ModelLoader$VanillaLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:157) ~[ModelLoaderRegistry.class:?]
+	... 20 more
+[00:04:38] [Client thread/ERROR] [FML]: Exception loading model for variant nemalula:ingot_ingot#inventory for item "nemalula:ingot_ingot", blockstate location exception: 
+net.minecraftforge.client.model.ModelLoaderRegistry$LoaderException: Exception loading model nemalula:ingot_ingot#inventory with loader VariantLoader.INSTANCE, skipping
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:161) ~[ModelLoaderRegistry.class:?]
+	at net.minecraftforge.client.model.ModelLoader.loadItemModels(ModelLoader.java:296) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.loadVariantItemModels(ModelBakery.java:175) ~[ModelBakery.class:?]
+	at net.minecraftforge.client.model.ModelLoader.setupModelRegistry(ModelLoader.java:151) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelManager.onResourceManagerReload(ModelManager.java:28) [ModelManager.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.registerReloadListener(SimpleReloadableResourceManager.java:121) [SimpleReloadableResourceManager.class:?]
+	at net.minecraft.client.Minecraft.init(Minecraft.java:560) [Minecraft.class:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [Minecraft.class:?]
+	at net.minecraft.client.main.Main.main(Main.java:118) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_221]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_221]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_221]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_221]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_221]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_221]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_221]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_221]
+	at net.minecraftforge.gradle.GradleStartCommon.launch(GradleStartCommon.java:97) [start/:?]
+	at GradleStart.main(GradleStart.java:25) [start/:?]
+Caused by: net.minecraft.client.renderer.block.model.ModelBlockDefinition$MissingVariantException
+	at net.minecraft.client.renderer.block.model.ModelBlockDefinition.getVariant(ModelBlockDefinition.java:83) ~[ModelBlockDefinition.class:?]
+	at net.minecraftforge.client.model.ModelLoader$VariantLoader.loadModel(ModelLoader.java:1175) ~[ModelLoader$VariantLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:157) ~[ModelLoaderRegistry.class:?]
+	... 20 more
+[00:04:38] [Client thread/ERROR] [FML]: Exception loading model for variant nemalula:ore_cooper#normal for blockstate "nemalula:ore_cooper"
+net.minecraftforge.client.model.ModelLoaderRegistry$LoaderException: Exception loading model nemalula:ore_cooper#normal with loader VariantLoader.INSTANCE, skipping
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:161) ~[ModelLoaderRegistry.class:?]
+	at net.minecraftforge.client.model.ModelLoader.registerVariant(ModelLoader.java:235) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.loadBlock(ModelBakery.java:153) ~[ModelBakery.class:?]
+	at net.minecraftforge.client.model.ModelLoader.loadBlocks(ModelLoader.java:223) ~[ModelLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoader.setupModelRegistry(ModelLoader.java:150) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelManager.onResourceManagerReload(ModelManager.java:28) [ModelManager.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.registerReloadListener(SimpleReloadableResourceManager.java:121) [SimpleReloadableResourceManager.class:?]
+	at net.minecraft.client.Minecraft.init(Minecraft.java:560) [Minecraft.class:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [Minecraft.class:?]
+	at net.minecraft.client.main.Main.main(Main.java:118) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_221]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_221]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_221]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_221]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_221]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_221]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_221]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_221]
+	at net.minecraftforge.gradle.GradleStartCommon.launch(GradleStartCommon.java:97) [start/:?]
+	at GradleStart.main(GradleStart.java:25) [start/:?]
+Caused by: net.minecraft.client.renderer.block.model.ModelBlockDefinition$MissingVariantException
+	at net.minecraft.client.renderer.block.model.ModelBlockDefinition.getVariant(ModelBlockDefinition.java:83) ~[ModelBlockDefinition.class:?]
+	at net.minecraftforge.client.model.ModelLoader$VariantLoader.loadModel(ModelLoader.java:1175) ~[ModelLoader$VariantLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:157) ~[ModelLoaderRegistry.class:?]
+	... 21 more
+[00:04:38] [Client thread/ERROR] [FML]: Exception loading blockstate for the variant nemalula:ore_cooper#normal: 
+java.lang.Exception: Could not load model definition for variant nemalula:ore_cooper
+	at net.minecraftforge.client.model.ModelLoader.getModelBlockDefinition(ModelLoader.java:269) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.loadBlock(ModelBakery.java:121) ~[ModelBakery.class:?]
+	at net.minecraftforge.client.model.ModelLoader.loadBlocks(ModelLoader.java:223) ~[ModelLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoader.setupModelRegistry(ModelLoader.java:150) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelManager.onResourceManagerReload(ModelManager.java:28) [ModelManager.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.registerReloadListener(SimpleReloadableResourceManager.java:121) [SimpleReloadableResourceManager.class:?]
+	at net.minecraft.client.Minecraft.init(Minecraft.java:560) [Minecraft.class:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [Minecraft.class:?]
+	at net.minecraft.client.main.Main.main(Main.java:118) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_221]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_221]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_221]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_221]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_221]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_221]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_221]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_221]
+	at net.minecraftforge.gradle.GradleStartCommon.launch(GradleStartCommon.java:97) [start/:?]
+	at GradleStart.main(GradleStart.java:25) [start/:?]
+Caused by: java.lang.RuntimeException: Encountered an exception when loading model definition of model nemalula:blockstates/ore_cooper.json
+	at net.minecraft.client.renderer.block.model.ModelBakery.loadMultipartMBD(ModelBakery.java:228) ~[ModelBakery.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.getModelBlockDefinition(ModelBakery.java:208) ~[ModelBakery.class:?]
+	at net.minecraftforge.client.model.ModelLoader.getModelBlockDefinition(ModelLoader.java:265) ~[ModelLoader.class:?]
+	... 20 more
+Caused by: java.io.FileNotFoundException: nemalula:blockstates/ore_cooper.json
+	at net.minecraft.client.resources.FallbackResourceManager.getAllResources(FallbackResourceManager.java:104) ~[FallbackResourceManager.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.getAllResources(SimpleReloadableResourceManager.java:79) ~[SimpleReloadableResourceManager.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.loadMultipartMBD(ModelBakery.java:221) ~[ModelBakery.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.getModelBlockDefinition(ModelBakery.java:208) ~[ModelBakery.class:?]
+	at net.minecraftforge.client.model.ModelLoader.getModelBlockDefinition(ModelLoader.java:265) ~[ModelLoader.class:?]
+	... 20 more
+[00:04:38] [Client thread/FATAL] [FML]: Suppressed additional 17 model loading errors for domain nemalula
+[00:04:38] [Client thread/INFO] [FML]: Applying holder lookups
+[00:04:38] [Client thread/INFO] [FML]: Holder lookups applied
+[00:04:38] [Client thread/INFO] [FML]: Injecting itemstacks
+[00:04:38] [Client thread/INFO] [FML]: Itemstack injection complete
+[00:04:39] [Client thread/INFO] [FML]: Forge Mod Loader has successfully loaded 5 mods
+[00:04:39] [Client thread/WARN] [net.minecraft.client.settings.GameSettings]: Skipping bad option: lastServer:
+[00:04:39] [Client thread/INFO] [com.mojang.text2speech.NarratorWindows]: Narrator library for x64 successfully loaded
+[00:04:40] [Realms Notification Availability checker #1/INFO] [com.mojang.realmsclient.client.RealmsClient]: Could not authorize you against Realms server: Invalid session id
+[00:05:06] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Starting integrated minecraft server version 1.12.2
+[00:05:06] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Generating keypair
+[00:05:06] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
+[00:05:06] [Server thread/INFO] [FML]: Applying holder lookups
+[00:05:06] [Server thread/INFO] [FML]: Holder lookups applied
+[00:05:06] [Server thread/INFO] [FML]: Loading dimension 0 (Example World) (net.minecraft.server.integrated.IntegratedServer@41dba6c2)
+[00:05:07] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 488 advancements
+[00:05:07] [Server thread/INFO] [FML]: Loading dimension -1 (Example World) (net.minecraft.server.integrated.IntegratedServer@41dba6c2)
+[00:05:07] [Server thread/INFO] [FML]: Loading dimension 1 (Example World) (net.minecraft.server.integrated.IntegratedServer@41dba6c2)
+[00:05:07] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[00:05:08] [Server thread/INFO] [FML]: Unloading dimension -1
+[00:05:08] [Server thread/INFO] [FML]: Unloading dimension 1
+[00:05:08] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Changing view distance to 12, from 10
+[00:05:10] [Netty Local Client IO #0/INFO] [FML]: Server protocol version 2
+[00:05:10] [Netty Server IO #1/INFO] [FML]: Client protocol version 2
+[00:05:10] [Netty Server IO #1/INFO] [FML]: Client attempting to join with 5 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2847,nemalula@69,mcp@9.42
+[00:05:10] [Netty Local Client IO #0/INFO] [FML]: [Netty Local Client IO #0] Client side modded connection established
+[00:05:10] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[00:05:10] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Player310[local:E:8716d1bc] logged in with entity id 392 at (81.69999998807907, 67.0, 393.33417687502975)
+[00:05:10] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Player310 joined the game
+[00:05:10] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Player310 has made the advancement [Stone Age]
+[00:05:11] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[00:05:11] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'Example World'/overworld
+[00:05:12] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Player310 has made the advancement [Stone Age]
+[00:05:12] [Client thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 18 advancements
+[00:05:12] [pool-2-thread-1/WARN] [com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService]: Couldn't look up profile properties for com.mojang.authlib.GameProfile@43da3806[id=86e39a76-f063-3bee-9e1a-270f7c5ebf9f,name=Player310,properties={},legacy=false]
+com.mojang.authlib.exceptions.AuthenticationException: The client has sent too many requests within a certain amount of time
+	at com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.makeRequest(YggdrasilAuthenticationService.java:79) ~[YggdrasilAuthenticationService.class:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService.fillGameProfile(YggdrasilMinecraftSessionService.java:180) [YggdrasilMinecraftSessionService.class:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService$1.load(YggdrasilMinecraftSessionService.java:60) [YggdrasilMinecraftSessionService$1.class:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService$1.load(YggdrasilMinecraftSessionService.java:57) [YggdrasilMinecraftSessionService$1.class:?]
+	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3716) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2424) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2298) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2211) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache.get(LocalCache.java:4154) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache.getOrLoad(LocalCache.java:4158) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache$LocalLoadingCache.get(LocalCache.java:5147) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache$LocalLoadingCache.getUnchecked(LocalCache.java:5153) [guava-21.0.jar:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService.fillProfileProperties(YggdrasilMinecraftSessionService.java:170) [YggdrasilMinecraftSessionService.class:?]
+	at net.minecraft.client.Minecraft.getProfileProperties(Minecraft.java:3182) [Minecraft.class:?]
+	at net.minecraft.client.resources.SkinManager$3.run(SkinManager.java:138) [SkinManager$3.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_221]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_221]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_221]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_221]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_221]
+[00:05:15] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[00:05:15] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'Example World'/overworld
+[00:06:23] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] minecraft:acacia_door, minecraft:acacia_fence, minecraft:acacia_fence_gate, minecraft:acacia_stairs, minecraft:activator_rail, minecraft:air, minecraft:anvil, minecraft:barrier, minecraft:beacon, minecraft:bed, minecraft:bedrock, minecraft:beetroots, minecraft:birch_door, minecraft:birch_fence, minecraft:birch_fence_gate, minecraft:birch_stairs, minecraft:black_glazed_terracotta, minecraft:black_shulker_box, minecraft:blue_glazed_terracotta, minecraft:blue_shulker_box, minecraft:bone_block, minecraft:bookshelf, minecraft:brewing_stand, minecraft:brick_block, minecraft:brick_stairs, minecraft:brown_glazed_terracotta, minecraft:brown_mushroom, minecraft:brown_mushroom_block, minecraft:brown_shulker_box, minecraft:cactus, minecraft:cake, minecraft:carpet, minecraft:carrots, minecraft:cauldron, minecraft:chain_command_block, minecraft:chest, minecraft:chorus_flower, minecraft:chorus_plant, minecraft:clay, minecraft:coal_block, minecraft:coal_ore, minecraft:cobblestone, minecraft:cobblestone_wall, minecraft:cocoa, minecraft:command_block, minecraft:concrete, minecraft:concrete_powder, minecraft:crafting_table, minecraft:cyan_glazed_terracotta, minecraft:cyan_shulker_box, minecraft:dark_oak_door, minecraft:dark_oak_fence, minecraft:dark_oak_fence_gate, minecraft:dark_oak_stairs, minecraft:daylight_detector, minecraft:daylight_detector_inverted, minecraft:deadbush, minecraft:detector_rail, minecraft:diamond_block, minecraft:diamond_ore, minecraft:dirt, minecraft:dispenser, minecraft:double_plant, minecraft:double_stone_slab, minecraft:double_stone_slab2, minecraft:double_wooden_slab, minecraft:dragon_egg, minecraft:dropper, minecraft:emerald_block, minecraft:emerald_ore, minecraft:enchanting_table, minecraft:end_bricks, minecraft:end_gateway, minecraft:end_portal, minecraft:end_portal_frame, minecraft:end_rod, minecraft:end_stone, minecraft:ender_chest, minecraft:farmland, minecraft:fence, minecraft:fence_gate, minecraft:fire, minecraft:flower_pot, minecraft:flowing_lava, minecraft:flowing_water, minecraft:frosted_ice, minecraft:furnace, minecraft:glass, minecraft:glass_pane, minecraft:glowstone, minecraft:gold_block, minecraft:gold_ore, minecraft:golden_rail, minecraft:grass, minecraft:grass_path, minecraft:gravel, minecraft:gray_glazed_terracotta, minecraft:gray_shulker_box, minecraft:green_glazed_terracotta, minecraft:green_shulker_box, minecraft:hardened_clay, minecraft:hay_block, minecraft:heavy_weighted_pressure_plate, minecraft:hopper, minecraft:ice, minecraft:iron_bars, minecraft:iron_block, minecraft:iron_door, minecraft:iron_ore, minecraft:iron_trapdoor, minecraft:jukebox, minecraft:jungle_door, minecraft:jungle_fence, minecraft:jungle_fence_gate, minecraft:jungle_stairs, minecraft:ladder, minecraft:lapis_block, minecraft:lapis_ore, minecraft:lava, minecraft:leaves, minecraft:leaves2, minecraft:lever, minecraft:light_blue_glazed_terracotta, minecraft:light_blue_shulker_box, minecraft:light_weighted_pressure_plate, minecraft:lime_glazed_terracotta, minecraft:lime_shulker_box, minecraft:lit_furnace, minecraft:lit_pumpkin, minecraft:lit_redstone_lamp, minecraft:lit_redstone_ore, minecraft:log, minecraft:log2, minecraft:magenta_glazed_terracotta, minecraft:magenta_shulker_box, minecraft:magma, minecraft:melon_block, minecraft:melon_stem, minecraft:mob_spawner, minecraft:monster_egg, minecraft:mossy_cobblestone, minecraft:mycelium, minecraft:nether_brick, minecraft:nether_brick_fence, minecraft:nether_brick_stairs, minecraft:nether_wart, minecraft:nether_wart_block, minecraft:netherrack, minecraft:noteblock, minecraft:oak_stairs, minecraft:observer, minecraft:obsidian, minecraft:orange_glazed_terracotta, minecraft:orange_shulker_box, minecraft:packed_ice, minecraft:pink_glazed_terracotta, minecraft:pink_shulker_box, minecraft:piston, minecraft:piston_extension, minecraft:piston_head, minecraft:planks, minecraft:portal, minecraft:potatoes, minecraft:powered_comparator, minecraft:powered_repeater, minecraft:prismarine, minecraft:pumpkin, minecraft:pumpkin_stem, minecraft:purple_glazed_terracotta, minecraft:purple_shulker_box, minecraft:purpur_block, minecraft:purpur_double_slab, minecraft:purpur_pillar, minecraft:purpur_slab, minecraft:purpur_stairs, minecraft:quartz_block, minecraft:quartz_ore, minecraft:quartz_stairs, minecraft:rail, minecraft:red_flower, minecraft:red_glazed_terracotta, minecraft:red_mushroom, minecraft:red_mushroom_block, minecraft:red_nether_brick, minecraft:red_sandstone, minecraft:red_sandstone_stairs, minecraft:red_shulker_box, minecraft:redstone_block, minecraft:redstone_lamp, minecraft:redstone_ore, minecraft:redstone_torch, minecraft:redstone_wire, minecraft:reeds, minecraft:repeating_command_block, minecraft:sand, minecraft:sandstone, minecraft:sandstone_stairs, minecraft:sapling, minecraft:sea_lantern, minecraft:silver_glazed_terracotta, minecraft:silver_shulker_box, minecraft:skull, minecraft:slime, minecraft:snow, minecraft:snow_layer, minecraft:soul_sand, minecraft:sponge, minecraft:spruce_door, minecraft:spruce_fence, minecraft:spruce_fence_gate, minecraft:spruce_stairs, minecraft:stained_glass, minecraft:stained_glass_pane, minecraft:stained_hardened_clay, minecraft:standing_banner, minecraft:standing_sign, minecraft:sticky_piston, minecraft:stone, minecraft:stone_brick_stairs, minecraft:stone_button, minecraft:stone_pressure_plate, minecraft:stone_slab, minecraft:stone_slab2, minecraft:stone_stairs, minecraft:stonebrick, minecraft:structure_block, minecraft:structure_void, minecraft:tallgrass, minecraft:tnt, minecraft:torch, minecraft:trapdoor, minecraft:trapped_chest, minecraft:tripwire, minecraft:tripwire_hook, minecraft:unlit_redstone_torch, minecraft:unpowered_comparator, minecraft:unpowered_repeater, minecraft:vine, minecraft:wall_banner, minecraft:wall_sign, minecraft:water, minecraft:waterlily, minecraft:web, minecraft:wheat, minecraft:white_glazed_terracotta, minecraft:white_shulker_box, minecraft:wooden_button, minecraft:wooden_door, minecraft:wooden_pressure_plate, minecraft:wooden_slab, minecraft:wool, minecraft:yellow_flower, minecraft:yellow_glazed_terracotta, minecraft:yellow_shulker_box, nemalula:ore_cooper
+[00:06:24] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] minecraft:acacia_door, minecraft:acacia_fence, minecraft:acacia_fence_gate, minecraft:acacia_stairs, minecraft:activator_rail, minecraft:air, minecraft:anvil, minecraft:barrier, minecraft:beacon, minecraft:bed, minecraft:bedrock, minecraft:beetroots, minecraft:birch_door, minecraft:birch_fence, minecraft:birch_fence_gate, minecraft:birch_stairs, minecraft:black_glazed_terracotta, minecraft:black_shulker_box, minecraft:blue_glazed_terracotta, minecraft:blue_shulker_box, minecraft:bone_block, minecraft:bookshelf, minecraft:brewing_stand, minecraft:brick_block, minecraft:brick_stairs, minecraft:brown_glazed_terracotta, minecraft:brown_mushroom, minecraft:brown_mushroom_block, minecraft:brown_shulker_box, minecraft:cactus, minecraft:cake, minecraft:carpet, minecraft:carrots, minecraft:cauldron, minecraft:chain_command_block, minecraft:chest, minecraft:chorus_flower, minecraft:chorus_plant, minecraft:clay, minecraft:coal_block, minecraft:coal_ore, minecraft:cobblestone, minecraft:cobblestone_wall, minecraft:cocoa, minecraft:command_block, minecraft:concrete, minecraft:concrete_powder, minecraft:crafting_table, minecraft:cyan_glazed_terracotta, minecraft:cyan_shulker_box, minecraft:dark_oak_door, minecraft:dark_oak_fence, minecraft:dark_oak_fence_gate, minecraft:dark_oak_stairs, minecraft:daylight_detector, minecraft:daylight_detector_inverted, minecraft:deadbush, minecraft:detector_rail, minecraft:diamond_block, minecraft:diamond_ore, minecraft:dirt, minecraft:dispenser, minecraft:double_plant, minecraft:double_stone_slab, minecraft:double_stone_slab2, minecraft:double_wooden_slab, minecraft:dragon_egg, minecraft:dropper, minecraft:emerald_block, minecraft:emerald_ore, minecraft:enchanting_table, minecraft:end_bricks, minecraft:end_gateway, minecraft:end_portal, minecraft:end_portal_frame, minecraft:end_rod, minecraft:end_stone, minecraft:ender_chest, minecraft:farmland, minecraft:fence, minecraft:fence_gate, minecraft:fire, minecraft:flower_pot, minecraft:flowing_lava, minecraft:flowing_water, minecraft:frosted_ice, minecraft:furnace, minecraft:glass, minecraft:glass_pane, minecraft:glowstone, minecraft:gold_block, minecraft:gold_ore, minecraft:golden_rail, minecraft:grass, minecraft:grass_path, minecraft:gravel, minecraft:gray_glazed_terracotta, minecraft:gray_shulker_box, minecraft:green_glazed_terracotta, minecraft:green_shulker_box, minecraft:hardened_clay, minecraft:hay_block, minecraft:heavy_weighted_pressure_plate, minecraft:hopper, minecraft:ice, minecraft:iron_bars, minecraft:iron_block, minecraft:iron_door, minecraft:iron_ore, minecraft:iron_trapdoor, minecraft:jukebox, minecraft:jungle_door, minecraft:jungle_fence, minecraft:jungle_fence_gate, minecraft:jungle_stairs, minecraft:ladder, minecraft:lapis_block, minecraft:lapis_ore, minecraft:lava, minecraft:leaves, minecraft:leaves2, minecraft:lever, minecraft:light_blue_glazed_terracotta, minecraft:light_blue_shulker_box, minecraft:light_weighted_pressure_plate, minecraft:lime_glazed_terracotta, minecraft:lime_shulker_box, minecraft:lit_furnace, minecraft:lit_pumpkin, minecraft:lit_redstone_lamp, minecraft:lit_redstone_ore, minecraft:log, minecraft:log2, minecraft:magenta_glazed_terracotta, minecraft:magenta_shulker_box, minecraft:magma, minecraft:melon_block, minecraft:melon_stem, minecraft:mob_spawner, minecraft:monster_egg, minecraft:mossy_cobblestone, minecraft:mycelium, minecraft:nether_brick, minecraft:nether_brick_fence, minecraft:nether_brick_stairs, minecraft:nether_wart, minecraft:nether_wart_block, minecraft:netherrack, minecraft:noteblock, minecraft:oak_stairs, minecraft:observer, minecraft:obsidian, minecraft:orange_glazed_terracotta, minecraft:orange_shulker_box, minecraft:packed_ice, minecraft:pink_glazed_terracotta, minecraft:pink_shulker_box, minecraft:piston, minecraft:piston_extension, minecraft:piston_head, minecraft:planks, minecraft:portal, minecraft:potatoes, minecraft:powered_comparator, minecraft:powered_repeater, minecraft:prismarine, minecraft:pumpkin, minecraft:pumpkin_stem, minecraft:purple_glazed_terracotta, minecraft:purple_shulker_box, minecraft:purpur_block, minecraft:purpur_double_slab, minecraft:purpur_pillar, minecraft:purpur_slab, minecraft:purpur_stairs, minecraft:quartz_block, minecraft:quartz_ore, minecraft:quartz_stairs, minecraft:rail, minecraft:red_flower, minecraft:red_glazed_terracotta, minecraft:red_mushroom, minecraft:red_mushroom_block, minecraft:red_nether_brick, minecraft:red_sandstone, minecraft:red_sandstone_stairs, minecraft:red_shulker_box, minecraft:redstone_block, minecraft:redstone_lamp, minecraft:redstone_ore, minecraft:redstone_torch, minecraft:redstone_wire, minecraft:reeds, minecraft:repeating_command_block, minecraft:sand, minecraft:sandstone, minecraft:sandstone_stairs, minecraft:sapling, minecraft:sea_lantern, minecraft:silver_glazed_terracotta, minecraft:silver_shulker_box, minecraft:skull, minecraft:slime, minecraft:snow, minecraft:snow_layer, minecraft:soul_sand, minecraft:sponge, minecraft:spruce_door, minecraft:spruce_fence, minecraft:spruce_fence_gate, minecraft:spruce_stairs, minecraft:stained_glass, minecraft:stained_glass_pane, minecraft:stained_hardened_clay, minecraft:standing_banner, minecraft:standing_sign, minecraft:sticky_piston, minecraft:stone, minecraft:stone_brick_stairs, minecraft:stone_button, minecraft:stone_pressure_plate, minecraft:stone_slab, minecraft:stone_slab2, minecraft:stone_stairs, minecraft:stonebrick, minecraft:structure_block, minecraft:structure_void, minecraft:tallgrass, minecraft:tnt, minecraft:torch, minecraft:trapdoor, minecraft:trapped_chest, minecraft:tripwire, minecraft:tripwire_hook, minecraft:unlit_redstone_torch, minecraft:unpowered_comparator, minecraft:unpowered_repeater, minecraft:vine, minecraft:wall_banner, minecraft:wall_sign, minecraft:water, minecraft:waterlily, minecraft:web, minecraft:wheat, minecraft:white_glazed_terracotta, minecraft:white_shulker_box, minecraft:wooden_button, minecraft:wooden_door, minecraft:wooden_pressure_plate, minecraft:wooden_slab, minecraft:wool, minecraft:yellow_flower, minecraft:yellow_glazed_terracotta, minecraft:yellow_shulker_box, nemalula:ore_cooper
+[00:06:37] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[00:06:37] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'Example World'/overworld

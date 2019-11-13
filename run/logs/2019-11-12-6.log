@@ -1,0 +1,244 @@
+[00:49:33] [main/INFO] [GradleStart]: Extra: []
+[00:49:33] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/Ariel/.gradle/caches/minecraft/assets, --assetIndex, 1.12, --accessToken{REDACTED}, --version, 1.12.2, --tweakClass, net.minecraftforge.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[00:49:33] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[00:49:33] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[00:49:33] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[00:49:33] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[00:49:33] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2847 for Minecraft 1.12.2 loading
+[00:49:33] [main/INFO] [FML]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_221, running on Windows 10:amd64:10.0, installed at C:\Program Files\Java\jdk1.8.0_221\jre
+[00:49:33] [main/ERROR] [FML]: Apache Maven library folder was not in the format expected. Using default libraries directory.
+[00:49:33] [main/ERROR] [FML]: Full: C:\Users\Ariel\.gradle\caches\modules-2\files-2.1\org.apache.maven\maven-artifact\3.5.3\7dc72b6d6d8a6dced3d294ed54c2cc3515ade9f4\maven-artifact-3.5.3.jar
+[00:49:33] [main/ERROR] [FML]: Trimmed: c:/users/ariel/.gradle/caches/modules-2/files-2.1/org.apache.maven/maven-artifact/3.5.3/
+[00:49:33] [main/INFO] [FML]: Managed to load a deobfuscated Minecraft name- we are in a deobfuscated environment. Skipping runtime deobfuscation
+[00:49:33] [main/INFO] [FML]: Detected deobfuscated environment, loading log configs for colored console logs.
+[00:49:34] [main/INFO] [FML]: Ignoring missing certificate for coremod FMLCorePlugin (net.minecraftforge.fml.relauncher.FMLCorePlugin), we are in deobf and it's a forge core plugin
+[00:49:34] [main/INFO] [FML]: Ignoring missing certificate for coremod FMLForgePlugin (net.minecraftforge.classloading.FMLForgePlugin), we are in deobf and it's a forge core plugin
+[00:49:34] [main/INFO] [FML]: Searching C:\Users\Ariel\Music\minecraft mod\run\.\mods for mods
+[00:49:34] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.gradle.tweakers.CoremodTweaker
+[00:49:34] [main/INFO] [GradleStart]: Injecting location in coremod net.minecraftforge.fml.relauncher.FMLCorePlugin
+[00:49:34] [main/INFO] [GradleStart]: Injecting location in coremod net.minecraftforge.classloading.FMLForgePlugin
+[00:49:34] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[00:49:34] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[00:49:34] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.AccessTransformerTweaker
+[00:49:34] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[00:49:34] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[00:49:34] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[00:49:35] [main/ERROR] [FML]: FML appears to be missing any signature data. This is not a good thing
+[00:49:35] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[00:49:35] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[00:49:36] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.gradle.tweakers.AccessTransformerTweaker
+[00:49:36] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[00:49:36] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[00:49:36] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[00:49:36] [Client thread/INFO] [net.minecraft.client.Minecraft]: Setting user: Player194
+[00:49:39] [Client thread/WARN] [net.minecraft.client.settings.GameSettings]: Skipping bad option: lastServer:
+[00:49:39] [Client thread/INFO] [net.minecraft.client.Minecraft]: LWJGL Version: 2.9.4
+[00:49:40] [Client thread/INFO] [FML]: -- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_221, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 96301408 bytes (91 MB) / 400031744 bytes (381 MB) up to 3804758016 bytes (3628 MB)
+	JVM Flags: 0 total; 
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: 
+	Loaded coremods (and transformers): 
+	GL info: ' Vendor: 'NVIDIA Corporation' Version: '4.6.0 NVIDIA 436.15' Renderer: 'GeForce GTX 1070/PCIe/SSE2'
+[00:49:40] [Client thread/INFO] [FML]: MinecraftForge v14.23.5.2847 Initialized
+[00:49:40] [Client thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[00:49:40] [Client thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[00:49:40] [Client thread/INFO] [FML]: Replaced 1227 ore ingredients
+[00:49:40] [Client thread/INFO] [FML]: Searching C:\Users\Ariel\Music\minecraft mod\run\.\mods for mods
+[00:49:41] [Client thread/INFO] [FML]: Forge Mod Loader has identified 5 mods to load
+[00:49:41] [Client thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, nemalula] at CLIENT
+[00:49:41] [Client thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, nemalula] at SERVER
+[00:49:41] [Client thread/INFO] [net.minecraft.client.resources.SimpleReloadableResourceManager]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Ants Mod
+[00:49:41] [Client thread/INFO] [FML]: Processing ObjectHolder annotations
+[00:49:41] [Client thread/INFO] [FML]: Found 1168 ObjectHolder annotations
+[00:49:41] [Client thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[00:49:41] [Client thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[00:49:42] [Client thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[00:49:42] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[00:49:42] [Client thread/INFO] [STDOUT]: [org.nemalula.AntsMod:preInit:27]: Ants Mod is loading!
+[00:49:42] [Client thread/INFO] [FML]: Applying holder lookups
+[00:49:42] [Client thread/INFO] [FML]: Holder lookups applied
+[00:49:42] [Client thread/WARN] [FML]: ****************************************
+[00:49:42] [Client thread/WARN] [FML]: * Registry Item: The object org.nemalula.ItemBase@7f85482c has been registered twice for the same name nemalula:ingot_cooper.
+[00:49:42] [Client thread/WARN] [FML]: *  at net.minecraftforge.registries.ForgeRegistry.add(ForgeRegistry.java:307)
+[00:49:42] [Client thread/WARN] [FML]: *  at net.minecraftforge.registries.ForgeRegistry.add(ForgeRegistry.java:288)
+[00:49:42] [Client thread/WARN] [FML]: *  at net.minecraftforge.registries.ForgeRegistry.register(ForgeRegistry.java:120)
+[00:49:42] [Client thread/WARN] [FML]: *  at net.minecraftforge.registries.ForgeRegistry.registerAll(ForgeRegistry.java:161)
+[00:49:42] [Client thread/WARN] [FML]: *  at org.nemalula.ModItems.register(ModItems.java:30)
+[00:49:42] [Client thread/WARN] [FML]: *  at org.nemalula.AntsMod$RegistrationHandler.registerItems(AntsMod.java:43)...
+[00:49:42] [Client thread/WARN] [FML]: ****************************************
+[00:49:42] [Client thread/INFO] [FML]: Applying holder lookups
+[00:49:42] [Client thread/INFO] [FML]: Holder lookups applied
+[00:49:42] [Client thread/INFO] [FML]: Applying holder lookups
+[00:49:42] [Client thread/INFO] [FML]: Holder lookups applied
+[00:49:42] [Client thread/INFO] [FML]: Applying holder lookups
+[00:49:42] [Client thread/INFO] [FML]: Holder lookups applied
+[00:49:42] [Client thread/INFO] [FML]: Injecting itemstacks
+[00:49:42] [Client thread/INFO] [FML]: Itemstack injection complete
+[00:49:42] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
+[00:49:42] [Thread-3/INFO] [FML]: Using sync timing. 200 frames of Display.update took 120157000 nanos
+[00:49:44] [Sound Library Loader/INFO] [net.minecraft.client.audio.SoundManager]: Starting up SoundSystem...
+[00:49:44] [Thread-5/INFO] [net.minecraft.client.audio.SoundManager]: Initializing LWJGL OpenAL
+[00:49:44] [Thread-5/INFO] [net.minecraft.client.audio.SoundManager]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[00:49:44] [Thread-5/INFO] [net.minecraft.client.audio.SoundManager]: OpenAL initialized.
+[00:49:45] [Sound Library Loader/INFO] [net.minecraft.client.audio.SoundManager]: Sound engine started
+[00:49:48] [Client thread/INFO] [FML]: Max texture size: 16384
+[00:49:48] [Client thread/INFO] [net.minecraft.client.renderer.texture.TextureMap]: Created: 512x512 textures-atlas
+[00:49:49] [Client thread/INFO] [FML]: Applying holder lookups
+[00:49:49] [Client thread/INFO] [FML]: Holder lookups applied
+[00:49:49] [Client thread/INFO] [FML]: Injecting itemstacks
+[00:49:49] [Client thread/INFO] [FML]: Itemstack injection complete
+[00:49:49] [Client thread/INFO] [FML]: Forge Mod Loader has successfully loaded 5 mods
+[00:49:49] [Client thread/WARN] [net.minecraft.client.settings.GameSettings]: Skipping bad option: lastServer:
+[00:49:49] [Client thread/INFO] [com.mojang.text2speech.NarratorWindows]: Narrator library for x64 successfully loaded
+[00:49:51] [Realms Notification Availability checker #1/INFO] [com.mojang.realmsclient.client.RealmsClient]: Could not authorize you against Realms server: Invalid session id
+[00:49:52] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Starting integrated minecraft server version 1.12.2
+[00:49:52] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Generating keypair
+[00:49:52] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
+[00:49:52] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world nemalula:ore_cooper
+[00:49:52] [Server thread/INFO] [FML]: Applying holder lookups
+[00:49:52] [Server thread/INFO] [FML]: Holder lookups applied
+[00:49:52] [Server thread/INFO] [FML]: Loading dimension 0 (Example World) (net.minecraft.server.integrated.IntegratedServer@18ee163e)
+[00:49:53] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 488 advancements
+[00:49:53] [Server thread/INFO] [FML]: Loading dimension -1 (Example World) (net.minecraft.server.integrated.IntegratedServer@18ee163e)
+[00:49:53] [Server thread/INFO] [FML]: Loading dimension 1 (Example World) (net.minecraft.server.integrated.IntegratedServer@18ee163e)
+[00:49:53] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[00:49:54] [Server thread/INFO] [FML]: Unloading dimension -1
+[00:49:54] [Server thread/INFO] [FML]: Unloading dimension 1
+[00:49:54] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Changing view distance to 12, from 10
+[00:49:56] [Netty Local Client IO #0/INFO] [FML]: Server protocol version 2
+[00:49:56] [Netty Server IO #1/INFO] [FML]: Client protocol version 2
+[00:49:56] [Netty Server IO #1/INFO] [FML]: Client attempting to join with 5 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2847,nemalula@69,mcp@9.42
+[00:49:56] [Netty Local Client IO #0/INFO] [FML]: [Netty Local Client IO #0] Client side modded connection established
+[00:49:56] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[00:49:56] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Player194[local:E:104db8c3] logged in with entity id 9793 at (259.14843348732995, 73.75178390334713, 1039.5504722184742)
+[00:49:56] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Player194 joined the game
+[00:49:57] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Player194 has made the advancement [Stone Age]
+[00:49:57] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[00:49:57] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'Example World'/overworld
+[00:49:58] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Player194 has made the advancement [Stone Age]
+[00:49:58] [Client thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 18 advancements
+[00:49:58] [pool-2-thread-1/WARN] [com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService]: Couldn't look up profile properties for com.mojang.authlib.GameProfile@685317f1[id=1de0626e-6c80-37c2-856b-2a8735302b74,name=Player194,properties={},legacy=false]
+com.mojang.authlib.exceptions.AuthenticationException: The client has sent too many requests within a certain amount of time
+	at com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.makeRequest(YggdrasilAuthenticationService.java:79) ~[YggdrasilAuthenticationService.class:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService.fillGameProfile(YggdrasilMinecraftSessionService.java:180) [YggdrasilMinecraftSessionService.class:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService$1.load(YggdrasilMinecraftSessionService.java:60) [YggdrasilMinecraftSessionService$1.class:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService$1.load(YggdrasilMinecraftSessionService.java:57) [YggdrasilMinecraftSessionService$1.class:?]
+	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3716) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2424) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2298) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2211) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache.get(LocalCache.java:4154) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache.getOrLoad(LocalCache.java:4158) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache$LocalLoadingCache.get(LocalCache.java:5147) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache$LocalLoadingCache.getUnchecked(LocalCache.java:5153) [guava-21.0.jar:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService.fillProfileProperties(YggdrasilMinecraftSessionService.java:170) [YggdrasilMinecraftSessionService.class:?]
+	at net.minecraft.client.Minecraft.getProfileProperties(Minecraft.java:3182) [Minecraft.class:?]
+	at net.minecraft.client.resources.SkinManager$3.run(SkinManager.java:138) [SkinManager$3.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_221]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_221]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_221]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_221]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_221]
+[00:50:01] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[00:50:01] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'Example World'/overworld
+[00:50:02] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[00:50:02] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'Example World'/overworld
+[00:50:10] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[00:50:10] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'Example World'/overworld
+[00:50:22] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[00:50:22] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'Example World'/overworld
+[00:50:25] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[00:50:25] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'Example World'/overworld
+[00:56:00] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[00:56:00] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'Example World'/overworld
+[00:56:01] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[00:56:01] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[00:56:01] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Player194 lost connection: Disconnected
+[00:56:01] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Player194 left the game
+[00:56:01] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Stopping singleplayer server as player logged out
+[00:56:01] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[00:56:01] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'Example World'/overworld
+[00:56:01] [Server thread/INFO] [FML]: Unloading dimension 0
+[00:56:01] [Server thread/INFO] [FML]: Applying holder lookups
+[00:56:01] [Server thread/INFO] [FML]: Holder lookups applied
+[00:56:04] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Starting integrated minecraft server version 1.12.2
+[00:56:04] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Generating keypair
+[00:56:04] [Server thread/ERROR] [FML.ModTracker]: This world was saved with mod tutorial which appears to be missing, things may not work well
+[00:56:04] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
+[00:56:04] [Server thread/INFO] [FML]: Registry Item: Found a missing id from the world tutorial:ingot_wood
+[00:56:04] [Server thread/INFO] [FML]: Registry Item: Found a missing id from the world tutorial:ingot_nothing
+[00:56:04] [Server thread/INFO] [FML]: Registry Item: Found a missing id from the world tutorial:ingot_cool
+[00:56:04] [Server thread/INFO] [FML]: Registry Item: Found a missing id from the world tutorial:ingot_thung
+[00:56:04] [Server thread/INFO] [FML]: Registry Item: Found a missing id from the world tutorial:ingot_theng
+[00:56:04] [Server thread/INFO] [FML]: Registry Item: Found a missing id from the world tutorial:ingot_steal
+[00:56:04] [Server thread/INFO] [FML]: Registry Item: Found a missing id from the world tutorial:ingot_hot
+[00:56:04] [Server thread/INFO] [FML]: Registry Item: Found a missing id from the world tutorial:ingot_ingot
+[00:56:04] [Server thread/INFO] [FML]: Registry Item: Found a missing id from the world tutorial:ingot_thing
+[00:56:04] [Server thread/INFO] [FML]: Registry Item: Found a missing id from the world tutorial:ingot_cooper
+[00:56:04] [Server thread/INFO] [FML]: Registry Item: Found a missing id from the world tutorial:ingot_lapiz
+[00:56:04] [Server thread/INFO] [FML]: Registry Item: Found a missing id from the world tutorial:ingot_stone
+[00:56:04] [Server thread/INFO] [FML]: Registry Item: Found a missing id from the world tutorial:ingot_dirt
+[00:56:04] [Server thread/INFO] [FML]: Registry Item: Found a missing id from the world tutorial:ingot_demand
+[00:56:04] [Server thread/INFO] [FML]: Registry Item: Found a missing id from the world tutorial:ingot_meme
+[00:56:04] [Server thread/INFO] [FML]: Registry Item: Found a missing id from the world tutorial:ingot_redstone
+[00:56:04] [Server thread/INFO] [FML]: Registry Item: Found a missing id from the world tutorial:ingot_thong
+[00:56:04] [Server thread/INFO] [FML]: Registry Item: Found a missing id from the world tutorial:ingot_everything
+[00:56:04] [Server thread/INFO] [FML]: Registry Item: Found a missing id from the world tutorial:ingot_whomst
+[00:56:04] [Server thread/INFO] [FML]: Registry Item: Found a missing id from the world tutorial:ingot_ant
+[00:56:04] [Server thread/INFO] [FML]: Registry Item: Found a missing id from the world tutorial:ingot_thang
+[00:56:04] [Server thread/ERROR] [FML]: Unidentified mapping from registry minecraft:items
+[00:56:04] [Server thread/ERROR] [FML]:     tutorial:ingot_whomst: 4109
+[00:56:04] [Server thread/ERROR] [FML]:     tutorial:ingot_dirt: 4101
+[00:56:04] [Server thread/ERROR] [FML]:     tutorial:ingot_hot: 4111
+[00:56:04] [Server thread/ERROR] [FML]:     tutorial:ingot_meme: 4108
+[00:56:04] [Server thread/ERROR] [FML]:     tutorial:ingot_everything: 4116
+[00:56:04] [Server thread/ERROR] [FML]:     tutorial:ingot_theng: 4105
+[00:56:04] [Server thread/ERROR] [FML]:     tutorial:ingot_lapiz: 4115
+[00:56:04] [Server thread/ERROR] [FML]:     tutorial:ingot_wood: 4099
+[00:56:04] [Server thread/ERROR] [FML]:     tutorial:ingot_demand: 4100
+[00:56:04] [Server thread/ERROR] [FML]:     tutorial:ingot_cooper: 4096
+[00:56:04] [Server thread/ERROR] [FML]:     tutorial:ingot_stone: 4113
+[00:56:04] [Server thread/ERROR] [FML]:     tutorial:ingot_steal: 4098
+[00:56:04] [Server thread/ERROR] [FML]:     tutorial:ingot_thung: 4104
+[00:56:04] [Server thread/ERROR] [FML]:     tutorial:ingot_thong: 4106
+[00:56:04] [Server thread/ERROR] [FML]:     tutorial:ingot_ingot: 4107
+[00:56:04] [Server thread/ERROR] [FML]:     tutorial:ingot_thang: 4103
+[00:56:04] [Server thread/ERROR] [FML]:     tutorial:ingot_ant: 4097
+[00:56:04] [Server thread/ERROR] [FML]:     tutorial:ingot_thing: 4102
+[00:56:04] [Server thread/ERROR] [FML]:     tutorial:ingot_nothing: 4112
+[00:56:04] [Server thread/ERROR] [FML]:     tutorial:ingot_redstone: 4114
+[00:56:04] [Server thread/ERROR] [FML]:     tutorial:ingot_cool: 4110
+[00:56:06] [Server thread/INFO] [FML]: World backup created at C:\Users\Ariel\Music\minecraft mod\run\saves\Example World #2-20191112-005605.zip.
+[00:56:06] [Server thread/ERROR] [FML]: There are unidentified mappings in this world - we are going to attempt to process anyway
+[00:56:06] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: nemalula:ore_cooper Expected: 4097 Got: 4117
+[00:56:06] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: nemalula:ingot_cooper Expected: 4096 Got: 4118
+[00:56:06] [Server thread/INFO] [FML]: Applying holder lookups
+[00:56:06] [Server thread/INFO] [FML]: Holder lookups applied
+[00:56:06] [Server thread/INFO] [FML]: Loading dimension 0 (Example World #2) (net.minecraft.server.integrated.IntegratedServer@32f2e96a)
+[00:56:07] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 488 advancements
+[00:56:07] [Server thread/INFO] [FML]: Loading dimension -1 (Example World #2) (net.minecraft.server.integrated.IntegratedServer@32f2e96a)
+[00:56:07] [Server thread/INFO] [FML]: Loading dimension 1 (Example World #2) (net.minecraft.server.integrated.IntegratedServer@32f2e96a)
+[00:56:07] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[00:56:07] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity minecraft:item but it was marked as removed already
+[00:56:07] [Server thread/INFO] [FML]: Unloading dimension -1
+[00:56:07] [Server thread/INFO] [FML]: Unloading dimension 1
+[00:56:07] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Changing view distance to 12, from 10
+[00:56:07] [Netty Local Client IO #1/INFO] [FML]: Server protocol version 2
+[00:56:07] [Netty Server IO #3/INFO] [FML]: Client protocol version 2
+[00:56:07] [Netty Server IO #3/INFO] [FML]: Client attempting to join with 5 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2847,nemalula@69,mcp@9.42
+[00:56:07] [Netty Local Client IO #1/INFO] [FML]: [Netty Local Client IO #1] Client side modded connection established
+[00:56:07] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[00:56:07] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Player194[local:E:8924a8b6] logged in with entity id 15169 at (-110.31459482479839, 65.55750406188965, -1470.699999988079)
+[00:56:07] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Player194 joined the game
+[00:56:08] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[00:56:08] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'Example World #2'/overworld
+[00:56:31] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[00:56:31] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'Example World #2'/overworld
+[00:59:26] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[00:59:26] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'Example World #2'/overworld
