@@ -5,7 +5,6 @@ import net.minecraft.block.material.Material;
 import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemBlock;
-import org.nemalula.AntsMod;
 
 public class BlockBase extends Block {
 
@@ -31,6 +30,7 @@ public class BlockBase extends Block {
     @Override
     public BlockBase setCreativeTab(CreativeTabs tab) {
         super.setCreativeTab(tab);
+
         return this;
     }
 
